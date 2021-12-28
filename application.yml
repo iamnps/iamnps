@@ -2,4 +2,5 @@ server:
   port: 0
 
 greeting:
-  message: Hello World!
+  message: Hiya folks!
+  username: Pearson Nie
